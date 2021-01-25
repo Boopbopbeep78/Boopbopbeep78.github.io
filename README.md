@@ -35,3 +35,12 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+Growth mindeset is continous improvement - like the Agile objective.  It's a state of mind that one must deploy to simply, grow.  The adage, "no pain, no gain" sums it up best.  By not seeing higher skilled individuals as threats, but, as inspiration, is the difference between having a growth mindeset and not so.
+
+I can keep myself in a growth mindeset by:
+
+1. continuously reminding myself that I can always improve
+2. remembering that everyone has something to teach me
+3. keeping good habits that prevent me from deviating from the growth mindset path
